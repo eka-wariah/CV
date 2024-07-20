@@ -5,6 +5,7 @@ Mahasiswa
 Bandung | +62 895 1608 5820 | ekawariah877@gmail.com  | https://github.com/eka-wariah
 
 RINGKASAN
+
 Saya seorang mahasiswa informatika yang sering mengikuti kegiatan pelatihan serta sosialisasi tentang informatika dan memiliki pengetahuan dalam bidang teknologi informasi, pengembangan perangkat lunak serta pengetahuan tentang design grafis. Saya telah mempelajari tentang pemograman(Back End dan Front End), basis data, UI/UX. Saya siap untuk berkonstribusi dalam belajar Bersama dengan focus serta dapat mencapai tujuan yang baik dengan individu maupun kelompok
 
 
