@@ -30,6 +30,8 @@ Uji kompetensi keahlian menjadi bagian back end pada projek aplikasi perpustakaa
 •	Mengatasi masalah yang terjadi pada server
 
 
+
+
 INTERNSHIP EXPERIENCE PROGRAM INDONESIA - Jakarta, Indonesia
 
 Peserta bootcamp dengan mengambil program graphic design ( Oktober - Desember 2023)
@@ -37,6 +39,8 @@ Peserta bootcamp dengan mengambil program graphic design ( Oktober - Desember 20
 ●	Mempelajari materi dan mengerjakan post test di aplikasi classroom, sehingga dapat meningkatkan pengetahuan dan skill dalam dunia desain grafis.
 
 ●	Membuat Project Based Learning tentang permasalahna karier dan membuat design dan konten berupa copywriting .
+
+
 
 IKATAN REMAJA MASJID AL-MU’MIN - Bandung, Indonesia
 
@@ -47,6 +51,8 @@ Wakil  (Januari – Maret 2023)
 ●	Membuat rapat untuk mendiskusikan program yanga akan dikerjakan Bersama ketua dan anggota
 
 ●	Merancang kegiatan yang akan berlangsung kedepannya
+
+
 
 Orbit Kampus - Artificial Intelligence 4 Jobs   - Jakarta, Indonesia
 
