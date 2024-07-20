@@ -1,5 +1,7 @@
 EKA WARIAH
+
 Mahasiswa
+
 Bandung | +62 895 1608 5820 | ekawariah877@gmail.com  | https://github.com/eka-wariah
 
 RINGKASAN
